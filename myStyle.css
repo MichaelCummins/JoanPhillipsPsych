@@ -29,12 +29,19 @@ ul{
 
 li{
     display: inline;
-    font-size: 15px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .joanImageLeft{
     
     width: 10vw;
     height: 25vh;
+    margin-top: 10vh;
+}
+
+.work{
+    overflow: hidden;
 }
 
