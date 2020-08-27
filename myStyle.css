@@ -18,21 +18,9 @@ body, html{
     overflow-y:auto;
 }
 
-ul{
-    background-color: aqua;
-    height: 5vh;
-    list-style: none;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: 200px;
-}
 
-li{
-    display: inline;
-    font-size: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
+
+
 
 .joanImageLeft{
     
@@ -41,7 +29,17 @@ li{
     margin-top: 10vh;
 }
 
+
+li:hover {
+    color:blue;
+}
+
 .work{
     overflow: hidden;
+}
+
+p{
+    background-color: azure;
+    font-size: 20px;
 }
 
