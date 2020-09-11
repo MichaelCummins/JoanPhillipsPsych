@@ -30,22 +30,34 @@ body, html{
 }
 
 nav {
-    background-image: linear-gradient(to bottom right, #633420, #6e351d);
+    
+
+}
+ul {
+    opacity: .8;
 }
 
 li {
     background-color: #5085a6;
     text-decoration: none;
+    color: lightcyan;
+    opacity: .9;
+    font-size: 25px;
 }
 
 li :hover {
     background-color: lightblue;
 }
 
-
+.JoanPic {
+    min-height: 100vh;
+    max-height: 100vh;
+    width: 50vw;
+}
 
 .work{
     overflow: hidden;
+    opacity: .9;
 }
 
 p{
