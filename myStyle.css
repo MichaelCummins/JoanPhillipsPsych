@@ -77,5 +77,20 @@ li :hover {
     max-width: 30vw;
 }
 
+.reviewsSection{
+    max-width: 45vw;
+    height: 80vh;
+    float: left ;
+}
 
+.aboutSection{
+    max-width: 50vw;
+    max-height: 80vh;
+    float: right;
+}
 
+.studentReviews{
+    max-width: 50vw;
+    min-width: 10vw;
+    max-height: 20vh;
+}
